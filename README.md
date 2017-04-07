@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter using Radar and Lidar data
 Self-Driving Car Engineer Nanodegree Program
 
 ---
